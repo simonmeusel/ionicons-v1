@@ -1,0 +1,19 @@
+{
+  "name": "ionicons-v1",
+  "version": "0.0.0",
+  "description": "This is a fork of https://github.com/ionic-team/ionicons, at version 1. This repository is released at npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonmeusel/ionicons-v1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonmeusel/ionicons-v1/issues"
+  },
+  "homepage": "https://github.com/simonmeusel/ionicons-v1#readme"
+}
