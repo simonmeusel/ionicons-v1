@@ -1,6 +1,6 @@
 {
   "name": "ionicons-v1",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "This is a fork of https://github.com/ionic-team/ionicons, at version 1. This repository is released at npm.",
   "main": "index.js",
   "scripts": {
